@@ -1,4 +1,6 @@
+my second javascript project
 # Getting Started with Create React App
+#netlify link = https://tasky1103.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
